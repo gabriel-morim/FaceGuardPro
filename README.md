@@ -73,7 +73,10 @@
   - Adicionar novos gestos, melhorar a precisão dos mesmos e criar uma interface gráfica mais interativa.
 
 ---
+![Imagem](/Imagens/VersãoFinal.png )
 
+
+---
 ## 8. Referências
 - Lista de documentação, tutoriais, artigos ou outras fontes consultadas.
   > 
