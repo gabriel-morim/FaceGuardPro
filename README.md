@@ -1,5 +1,18 @@
 # FaceGuardPro & FaceSignPro
 ---
+## Como usar
+
+1. Instalar dependências.
+
+   ```bash
+   pip install opencv-python numpy mediapipe
+   ```
+
+2. Iniciar a aplicação no 'Run'.
+3. Para ativar a deteção da linguagem gestual, pressionar 'S' (só para o FaceSignPro).
+4. Pressionar a tecla 'Q' para parar a aplicação
+
+---
 
 ## 1. Identificação do Projeto
 - **Título do Projeto:**
